@@ -1,0 +1,13 @@
+{
+  "name": "Slack Tools",
+  "version": "1.0",
+  "icons": { "128": "icon128.png" },
+  "description": "Slack Notification & Icon Changer",
+  "browser_action": {
+    "default_title": "Slack Tools",
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"],
+  "author": "Asa",
+  "manifest_version": 2
+}
